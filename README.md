@@ -12,10 +12,11 @@ I'm a passionate **AI enthusiast** and **Software Developer** with a love for ta
 ---
 
 ### 🌟 Areas of Interest
-- Machine Learning & Deep Learning
-- AI Security & LLM Vulnerabilities
-- Data-Driven Application Development
-- Full-Stack Development
+- **Machine Learning & Deep Learning**
+- **Large Language Models**
+- **AI & LLM Vulnerabilities**
+- **Data-Driven Application Development**
+- **Software Development**
 
 ---
 
