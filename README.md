@@ -69,18 +69,13 @@ I am an **Artificial Intelligence Specialist** and **Software Developer** with a
 
 ### 🤝 Let’s Connect!
 I’m always excited to collaborate on innovative projects or discuss emerging trends in AI and software development. Feel free to reach out or explore my work:
-
-- **[LinkedIn](https://linkedin.com/in/nima-daryabar)**
+<p align="center">
+  <a href="https://linkedin.com/in/nima-daryabar" target="_blank"><strong>LinkedIn</strong></a> | 
+  <a href="https://github.com/nimad70" target="_blank"><strong>GitHub</strong></a>
+</p>
+<!-- - **[LinkedIn](https://linkedin.com/in/nima-daryabar)**
 - **[GitHub](https://github.com/nimad70)**
-
-
-<p align="center">
-  <img src="me.webp" alt="Yes, This is me!" width="600">
-</p>
-
-<p align="center">
-  <em>That's me in my natural habitat: surrounded by neural networks, Python, and a big cup of coffee!</em>
-</p>
+ -->
 ---
 
 <p align="center"><em>"Curiosity drives my work, and innovation fuels my passion. Let's build something extraordinary together!"</em></p>
