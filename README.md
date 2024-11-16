@@ -68,6 +68,15 @@ I am an **Artificial Intelligence Specialist** and **Software Developer** with a
 ---
 
 ### 🤝 Let’s Connect!
+
+<p align="center">
+  <img src="me.webp" alt="Yes, This is me!" width="600">
+</p>
+
+<p align="center">
+  <em>That's me in my natural habitat: surrounded by neural networks, Python, and a big cup of coffee!</em>
+</p>
+
 I’m always excited to collaborate on innovative projects or discuss emerging trends in AI and software development. Feel free to reach out or explore my work:
 
 - **[LinkedIn](https://linkedin.com/in/nima-daryabar)**
