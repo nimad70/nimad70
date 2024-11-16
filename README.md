@@ -7,12 +7,12 @@
 ---
 
 ### 👨‍💻 About Me
-I am an **AI enthusiast** and **Software Developer** with a passion for tackling complex challenges through code and innovation. With a Master’s degree in Computer Science from the **University of Padua**, I’ve specialized in **AI security** and **machine learning**. My research focused on uncovering vulnerabilities in Large Language Models (LLMs) through poisoned vector databases in Retrieval-Augmented Generation (RAG)-based systems. Beyond research, I’ve worked on impactful projects across machine learning, data analysis, and full-stack development, always striving to blend creativity with cutting-edge technology.
+I am an **AI enthusiast** and **Software Developer** passionate about tackling complex challenges through code and innovation. With a Master’s degree in Computer Science from the **University of Padua**, I’ve specialized in **AI security** and **machine learning**. My research focused on uncovering vulnerabilities in Large Language Models (LLMs) through poisoned vector databases in Retrieval-Augmented Generation (RAG)--based systems. Beyond research, I’ve worked on impactful projects across machine learning, data analysis, and full-stack development, always striving to blend creativity with cutting-edge technology.
 
 ---
 
 <p align="center">
-  <img src="path_to_your_image.jpg" alt="Nima immersed in AI work" width="600">
+  <img src="me.webp" alt="Nima immersed in AI work" width="600">
 </p>
 
 <p align="center">
@@ -23,9 +23,10 @@ I am an **AI enthusiast** and **Software Developer** with a passion for tackling
 
 ### 🌟 Professional Interests
 - **Machine Learning & Deep Learning**: Crafting models that drive intelligent solutions.
-- **AI Security & LLM Vulnerabilities**: Pioneering secure and robust AI systems.
-- **Data-Driven Application Development**: Building impactful applications powered by insights.
-- **Full-Stack Development**: Designing seamless user experiences with efficient backend integration.
+- **Large Language Models**: Enhancing language-based systems to deliver powerful, contextual responses.
+- **AI & LLM Vulnerabilities**: Ensuring secure and robust AI systems by addressing critical vulnerabilities.
+- **Data-Driven Application Development**: Building impactful applications powered by actionable insights.
+- **Software Development**: Developing scalable and efficient software solutions that meet diverse user needs.
 
 ---
 
