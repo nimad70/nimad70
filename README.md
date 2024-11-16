@@ -1,4 +1,82 @@
-<h1 align="center">👋 Hello, I'm Nima!</h1>
+<h1 align="center">👋 Hello, I'm Nima! 👋</h1>
+
+<p align="center">
+  <em>Artificial Intelligence Specialist | Software Developer | Machine Learning Enthusiast</em>
+</p>
+
+---
+
+### 👨‍💻 About Me
+I'm a passionate **AI enthusiast** and **Software Developer** with a love for tackling complex problems through code. I hold a Master’s degree in Computer Science from the **University of Padua**, where I focused my research on **AI security** and **machine learning**. My thesis explored vulnerabilities in Large Language Models (LLMs) through poisoned vector databases in RAG-based systems, and I've since worked on projects across machine learning, data analysis, and full-stack development.
+
+---
+
+<p align="center">
+  <img src="path_to_your_image.jpg" alt="Nima immersed in AI work" width="600">
+</p>
+
+<p align="center">
+  <em>That's me in my natural habitat: surrounded by neural networks, Python, and a big cup of coffee! ☕</em>
+</p>
+
+---
+
+### 🌟 Areas of Interest
+- Machine Learning & Deep Learning
+- AI Security & LLM Vulnerabilities
+- Data-Driven Application Development
+- Full-Stack Development
+
+---
+
+### 🛠️ Skills & Technologies
+
+#### 🖥️ Programming Languages
+- **Python** 🐍
+- **C++** 🚀
+- **SQL** 🗄️
+
+#### 📚 Frameworks & Libraries
+- **TensorFlow** 🔶
+- **PyTorch** 🔥
+- **Scikit-learn** 📊
+- **Keras** 📈
+
+#### 🛠 Tools & Technologies
+- **Git** 🧑‍💻
+- **Docker** 🐳
+- **LaTeX** ✍️
+- **Azure** ☁️
+
+#### 📊 Data Analysis
+- **Pandas** 🐼
+- **NumPy** 🔢
+- **MATLAB** 📐
+
+---
+
+### 🚀 Recent Projects
+
+- **Diabetic Retinopathy Detection**: Developed a model using **Inception V3 CNN** to classify diabetic retinopathy severity based on retina images, enhancing accuracy through preprocessing techniques.
+  
+- **LLM Optimization in Healthcare**: Fine-tuned a **Mistral 7B model** to improve question-answering systems in the medical field, achieving better accuracy and relevance for domain-specific inquiries.
+
+---
+
+### 🤝 Let's Connect!
+- **LinkedIn**: [nima-daryabar](https://linkedin.com/in/nima-daryabar)
+- **GitHub**: [nimad70](https://github.com/nimad70)
+
+---
+
+<p align="center"><em>"Curiosity drives my work, and innovation fuels my passion. Let's collaborate and build something amazing!"</em></p>
+
+
+
+
+
+
+<!---<h1 align="center">👋 Hello, I'm Nima!</h1>
 
 <p align="center">
   <em>Artificial Intelligence Specialist | Software Developer | Machine Learning Enthusiast</em>
@@ -61,6 +139,12 @@ I'm a passionate **AI enthusiast** and **Software Developer** with a love for ta
 ---
 
 <p align="center"><em>"Curiosity drives my work, and innovation fuels my passion. Let's collaborate and build something amazing!"</em></p>
+--->
+
+
+
+
+
 
 <!---<h1 align="center">👋 Hello, I'm Nima! 👋</h1>
 
