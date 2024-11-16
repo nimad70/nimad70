@@ -7,6 +7,89 @@
 ---
 
 ### 👨‍💻 About Me
+I am an **Artificial Intelligence Specialist** and **Software Developer** with a passion for innovation, solving complex challenges, and building impactful solutions. With a solid academic background and hands-on experience, I bring a unique blend of research and development skills to the world of AI and software engineering.
+
+---
+
+### 🌟 Highlights About Me
+- 🎓 **Master’s in Computer Science** (University of Padua): My thesis focused on uncovering vulnerabilities in **Large Language Models (LLMs)** through poisoned vector databases in **Retrieval-Augmented Generation (RAG)** systems.
+- 🔬 **AI Researcher**: Investigated AI security, backdoor attacks, and data poisoning during my internship at Radboud University.
+- 💻 **Software Developer**: Built full-stack applications and machine learning models that drive real-world results, including a second-hand car price prediction system and diabetic retinopathy detection.
+
+---
+
+### 🌟 Areas of Interest
+- **Machine Learning & Deep Learning**: Crafting intelligent models for real-world applications.
+- **Large Language Models (LLMs)**: Enhancing language-based AI systems with optimized performance.
+- **AI & LLM Vulnerabilities**: Pioneering secure and robust AI systems.
+- **Data-Driven Application Development**: Harnessing insights to build impactful software solutions.
+- **Software Development**: Delivering scalable, efficient, and user-friendly applications.
+
+---
+
+### 🛠️ Skills & Technologies
+
+#### **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+</p>
+
+#### **Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+</p>
+
+#### **Tools & Technologies**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+</p>
+
+#### **Data Analysis**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white" alt="MATLAB">
+</p>
+
+---
+
+### 🚀 Recent Projects
+- **Diabetic Retinopathy Detection**: Developed a CNN-based model using **Inception V3** to classify the severity of diabetic retinopathy, achieving high accuracy through advanced preprocessing techniques.
+- **LLM Optimization in Healthcare**: Fine-tuned **Mistral 7B** to improve question-answering systems in the medical domain, ensuring more accurate and relevant responses.
+
+---
+
+### 🤝 Let’s Connect!
+I’m always excited to collaborate on innovative projects or discuss emerging trends in AI and software development. Feel free to reach out or explore my work:
+
+- **[LinkedIn](https://linkedin.com/in/nima-daryabar)**
+- **[GitHub](https://github.com/nimad70)**
+
+---
+
+<p align="center"><em>"Curiosity drives my work, and innovation fuels my passion. Let's build something extraordinary together!"</em></p>
+
+
+
+
+
+<!---<h1 align="center">👋 Hello, I'm Nima!</h1>
+
+<p align="center">
+  <em>Artificial Intelligence Specialist | Software Developer | Machine Learning Enthusiast</em>
+</p>
+
+---
+
+### 👨‍💻 About Me
 I am an **AI enthusiast** and **Software Developer** passionate about tackling complex challenges through code and innovation. With a Master’s degree in Computer Science from the **University of Padua**, I’ve specialized in **AI security** and **machine learning**. My research focused on uncovering vulnerabilities in Large Language Models (LLMs) through poisoned vector databases in Retrieval-Augmented Generation (RAG)--based systems. Beyond research, I’ve worked on impactful projects across machine learning, data analysis, and full-stack development, always striving to blend creativity with cutting-edge technology.
 
 ---
