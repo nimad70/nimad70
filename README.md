@@ -1,4 +1,85 @@
-<h1 align="center">👋 Hello, I'm Nima! 👋</h1>
+<h1 align="center">👋 Hello, I'm Nima!</h1>
+
+<p align="center">
+  <em>Artificial Intelligence Specialist | Software Developer | Machine Learning Enthusiast</em>
+</p>
+
+---
+
+### 👨‍💻 About Me
+I am an **AI enthusiast** and **Software Developer** with a passion for tackling complex challenges through code and innovation. With a Master’s degree in Computer Science from the **University of Padua**, I’ve specialized in **AI security** and **machine learning**. My research focused on uncovering vulnerabilities in Large Language Models (LLMs) through poisoned vector databases in Retrieval-Augmented Generation (RAG)-based systems. Beyond research, I’ve worked on impactful projects across machine learning, data analysis, and full-stack development, always striving to blend creativity with cutting-edge technology.
+
+---
+
+<p align="center">
+  <img src="path_to_your_image.jpg" alt="Nima immersed in AI work" width="600">
+</p>
+
+<p align="center">
+  <em>Immersed in innovation: A snapshot of my journey exploring neural networks, machine learning frameworks, and AI solutions.</em>
+</p>
+
+---
+
+### 🌟 Professional Interests
+- **Machine Learning & Deep Learning**: Crafting models that drive intelligent solutions.
+- **AI Security & LLM Vulnerabilities**: Pioneering secure and robust AI systems.
+- **Data-Driven Application Development**: Building impactful applications powered by insights.
+- **Full-Stack Development**: Designing seamless user experiences with efficient backend integration.
+
+---
+
+### 🛠️ Skills & Technologies
+
+#### 🖥️ Programming Languages
+- **Python** 🐍
+- **C++** 🚀
+- **SQL** 🗄️
+
+#### 📚 Frameworks & Libraries
+- **TensorFlow** 🔶
+- **PyTorch** 🔥
+- **Scikit-learn** 📊
+- **Keras** 📈
+
+#### 🛠 Tools & Technologies
+- **Git** 🧑‍💻
+- **Docker** 🐳
+- **LaTeX** ✍️
+- **Azure** ☁️
+
+#### 📊 Data Analysis
+- **Pandas** 🐼
+- **NumPy** 🔢
+- **MATLAB** 📐
+
+---
+
+### 🚀 Recent Projects
+
+- **Diabetic Retinopathy Detection**: Developed a model using **Inception V3 CNN** to classify diabetic retinopathy severity based on retina images, implementing preprocessing techniques to enhance accuracy.
+  
+- **LLM Optimization in Healthcare**: Fine-tuned a **Mistral 7B model** to improve domain-specific question-answering systems in the medical field, achieving better accuracy and relevance for inquiries.
+
+---
+
+### 🤝 Let's Connect!
+<p align="center">
+  <a href="https://linkedin.com/in/nima-daryabar" target="_blank"><strong>LinkedIn</strong></a> | 
+  <a href="https://github.com/nimad70" target="_blank"><strong>GitHub</strong></a>
+</p>
+
+---
+
+<p align="center"><em>"Innovation lies at the intersection of curiosity and dedication. Let's shape the future of technology together!"</em></p>
+
+
+
+
+
+
+
+<!---<h1 align="center">👋 Hello, I'm Nima! 👋</h1>
 
 <p align="center">
   <em>Artificial Intelligence Specialist | Software Developer | Machine Learning Enthusiast</em>
