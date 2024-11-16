@@ -31,6 +31,37 @@ I am an **Artificial Intelligence Specialist** and **Software Developer** with a
 
 #### **Programming Languages**
 <p>
+  <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++">
+  <img src="https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL">
+</p>
+
+#### **Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-ffffff?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-ffffff?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Scikit--learn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Keras-ffffff?style=for-the-badge&logo=keras&logoColor=D00000" alt="Keras">
+</p>
+
+#### **Tools & Technologies**
+<p>
+  <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/LaTeX-ffffff?style=for-the-badge&logo=latex&logoColor=008080" alt="LaTeX">
+  <img src="https://img.shields.io/badge/Azure-ffffff?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4" alt="Azure">
+</p>
+
+#### **Data Analysis**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-ffffff?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy">
+  <img src="https://img.shields.io/badge/MATLAB-ffffff?style=for-the-badge&logo=Mathworks&logoColor=0076A8" alt="MATLAB">
+</p>
+
+
+#### **Programming Languages**
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
