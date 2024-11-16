@@ -12,7 +12,7 @@ I'm a passionate **AI enthusiast** and **Software Developer** with a love for ta
 ---
 
 <p align="center">
-  <img src="path_to_your_image.jpg" alt="Nima immersed in AI work" width="600">
+  <img src="me.webp" alt="Nima immersed in AI work" width="600">
 </p>
 
 <p align="center">
