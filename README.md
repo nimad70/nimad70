@@ -76,6 +76,7 @@ I’m always excited to collaborate on innovative projects or discuss emerging t
 <!-- - **[LinkedIn](https://linkedin.com/in/nima-daryabar)**
 - **[GitHub](https://github.com/nimad70)**
  -->
+
 ---
 
 <p align="center"><em>"Curiosity drives my work, and innovation fuels my passion. Let's build something extraordinary together!"</em></p>
