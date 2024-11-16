@@ -16,7 +16,7 @@ I am an **AI enthusiast** and **Software Developer** passionate about tackling c
 </p>
 
 <p align="center">
-  <em>Immersed in innovation: A snapshot of my journey exploring neural networks, machine learning frameworks, and AI solutions.</em>
+  <em>That's me in my natural habitat: surrounded by neural networks, Python, and a big cup of coffee! ☕</em>
 </p>
 
 ---
