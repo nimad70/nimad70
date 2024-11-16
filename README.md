@@ -32,6 +32,85 @@ I am an **AI enthusiast** and **Software Developer** passionate about tackling c
 
 ### 🛠️ Skills & Technologies
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <a href="https://www.python.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://isocpp.org/" target="_blank">
+          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <a href="https://www.tensorflow.org/" target="_blank">
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://pytorch.org/" target="_blank">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://scikit-learn.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <a href="https://www.docker.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://www.latex-project.org/" target="_blank">
+          <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://azure.microsoft.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <a href="https://pandas.pydata.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://numpy.org/" target="_blank">
+          <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+          <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white" alt="MATLAB" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+### 🛠️ Skills & Technologies
+
 #### 🖥️ Programming Languages
 - **Python** 🐍
 - **C++** 🚀
