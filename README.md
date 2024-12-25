@@ -1,4 +1,50 @@
-<h1 align="center">👋 Hello, I'm Nima!</h1>
+# 👋 Hello, I'm Nima!
+
+**Artificial Intelligence Specialist** | **Software Developer** | **Machine Learning Enthusiast**
+
+---
+
+## About Me
+I’m a passionate AI specialist and software developer with a Master’s in Computer Science from the University of Padua, specializing in machine learning, AI security, and software engineering. My work spans research, development, and optimization of advanced AI systems to deliver impactful, real-world solutions.
+
+---
+
+## Highlights
+- **AI Research**: Explored vulnerabilities in **Large Language Models (LLMs)** and Retrieval-Augmented Generation (RAG) systems during my thesis, collaborating with Radboud University.
+- **Software Development**: Built scalable applications and machine learning models, including a diabetic retinopathy detection system and car price prediction tool.
+- **Technical Expertise**: Skilled in Python, TensorFlow, PyTorch, and cloud-based deployments to optimize workflows for efficiency and reproducibility.
+
+---
+
+## Skills
+- **Languages**: Python, SQL, C++
+- **Frameworks**: TensorFlow, PyTorch, Scikit-learn, Django
+- **Tools**: Git, Docker, Azure
+- **Specialties**: Machine Learning, Deep Learning, AI Security, Data Analysis
+
+---
+
+## Recent Projects
+- **LLM Optimization**: Fine-tuned **Mistral 7B** for medical QA, achieving 95.45% accuracy using advanced techniques like QLoRA and RAG.
+- **Diabetic Retinopathy Detection**: Developed a CNN model using **Inception V3**, achieving high accuracy with optimized preprocessing techniques.
+
+---
+
+## Let’s Connect
+I’m always open to collaboration and discussing innovative ideas in AI and software development. Feel free to explore my work or connect with me on:
+
+- [LinkedIn](https://linkedin.com/in/nima-daryabar)
+- [GitHub](https://github.com/nimad70)
+
+---
+
+> “Curiosity drives my work, and innovation fuels my passion. Let’s build something extraordinary together!”
+
+
+
+
+
+<!--- <h1 align="center">👋 Hello, I'm Nima!</h1>
 
 <p align="center">
   <em>Artificial Intelligence Specialist | Software Developer | Machine Learning Enthusiast</em>
@@ -75,12 +121,11 @@ I’m always excited to collaborate on innovative projects or discuss emerging t
 </p>
 <!-- - **[LinkedIn](https://linkedin.com/in/nima-daryabar)**
 - **[GitHub](https://github.com/nimad70)**
- -->
 
 ---
 
 <p align="center"><em>"Curiosity drives my work, and innovation fuels my passion. Let's build something extraordinary together!"</em></p>
-
+--->
 
 
 
