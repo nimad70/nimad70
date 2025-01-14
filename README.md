@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nima!
+# Hello, I'm Nima!
 
 **Artificial Intelligence Specialist** | **Software Developer** | **Machine Learning Enthusiast**
 
