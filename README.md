@@ -17,10 +17,24 @@ I’m a passionate AI specialist and software developer with a Master’s in Com
 ---
 
 ## Skills
-- **Languages**: Python, SQL, C++
+- **Languages**: Python, SQL, C++, React
 - **Frameworks**: TensorFlow, PyTorch, Scikit-learn, Django
+- **API Technologies**: GraphQL, REST APIs
 - **Tools**: Git, Docker, Azure
 - **Specialties**: Machine Learning, Deep Learning, AI Security, Data Analysis
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=nimad70&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;theme=transparent" alt="Nima's GitHub stats">
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nimad70&amp;layout=compact&amp;langs_count=8&amp;theme=transparent" alt="Nima's most used languages">
+  </a>
+</p>
 
 ---
 
